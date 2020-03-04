@@ -641,5 +641,37 @@ class MemberControllerSpec extends WordSpec with MustMatchers with MockitoSugar 
 
       app.stop
     }
+
+    "return a NOT_FOUND response with error message when the member could not be found" in {
+      when(mockMemberRespository.updateEmail(any, any))
+        .thenReturn(Future.successful(None))
+
+      val app: Application = builder.build()
+
+      val request =
+        FakeRequest(POST, routes.MemberController.updateEmail(Card("INCORRECTID12345"), "liamnew@gmail.com").url)
+      val result: Future[Result] = route(app, request).value
+
+      status(result) mustBe NOT_FOUND
+      contentAsString(result) mustBe "A member could not be found with that card ID"
+
+      app.stop
+    }
+
+    "return a BAD_REQUEST response with error message for any other failure" in {
+      when(mockMemberRespository.updateEmail(any, any))
+        .thenReturn(Future.failed(new Exception))
+
+      val app: Application = builder.build()
+
+      val request =
+        FakeRequest(POST, routes.MemberController.updateEmail(Card("INCORRECTID12345"), "liamnew@gmail.com").url)
+      val result: Future[Result] = route(app, request).value
+
+      status(result) mustBe BAD_REQUEST
+      contentAsString(result) mustBe "Issue occurred - exception: java.lang.Exception"
+
+      app.stop
+    }
   }
 }
