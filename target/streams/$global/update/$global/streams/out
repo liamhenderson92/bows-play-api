@@ -271,7 +271,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-reflect;2.10.6!scala-reflect.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#jline;2.10.6!jline.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 286ms :: artifacts dl 8ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 188ms :: artifacts dl 5ms[0m
 [0m[[0mdebug[0m] [0m	report for default#bows-play-api_2.10;0.1-SNAPSHOT compile produced in /home/liam/bows-play-api/target/resolution-cache/reports/default-bows-play-api_2.10-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#bows-play-api_2.10;0.1-SNAPSHOT runtime produced in /home/liam/bows-play-api/target/resolution-cache/reports/default-bows-play-api_2.10-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#bows-play-api_2.10;0.1-SNAPSHOT test produced in /home/liam/bows-play-api/target/resolution-cache/reports/default-bows-play-api_2.10-test.xml[0m
@@ -285,5 +285,5 @@
 [0m[[0mdebug[0m] [0m	report for default#bows-play-api_2.10;0.1-SNAPSHOT docs produced in /home/liam/bows-play-api/target/resolution-cache/reports/default-bows-play-api_2.10-docs.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#bows-play-api_2.10;0.1-SNAPSHOT pom produced in /home/liam/bows-play-api/target/resolution-cache/reports/default-bows-play-api_2.10-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#bows-play-api_2.10;0.1-SNAPSHOT scala-tool produced in /home/liam/bows-play-api/target/resolution-cache/reports/default-bows-play-api_2.10-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (286ms resolve - 8ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (188ms resolve - 5ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

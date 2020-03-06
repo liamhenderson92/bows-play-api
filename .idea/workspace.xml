@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f7f4827-da65-42ea-9c0c-ea1f75cf1a80" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/bows-play-api/conf/application.conf" beforeDir="false" afterPath="$PROJECT_DIR$/bows-play-api/conf/application.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/default/bows-play-api_2.10/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/default/bows-play-api_2.10/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/default/bows-play-api_2.10/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/default/bows-play-api_2.10/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-bows-play-api_2.10-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-bows-play-api_2.10-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-bows-play-api_2.10-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-bows-play-api_2.10-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-bows-play-api_2.10-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-bows-play-api_2.10-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-bows-play-api_2.10-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-bows-play-api_2.10-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-bows-play-api_2.10-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-bows-play-api_2.10-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-bows-play-api_2.10-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-bows-play-api_2.10-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-bows-play-api_2.10-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-bows-play-api_2.10-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-bows-play-api_2.10-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-bows-play-api_2.10-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-bows-play-api_2.10-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-bows-play-api_2.10-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-bows-play-api_2.10-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-bows-play-api_2.10-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-bows-play-api_2.10-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-bows-play-api_2.10-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-bows-play-api_2.10-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-bows-play-api_2.10-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-bows-play-api_2.10-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-bows-play-api_2.10-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bows-play-api/build.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bows-play-api/bows-play-api.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bows-play-api/test/models/CardSpec.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+              <folding>
+                <element signature="e#16#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bows-play-api/project/plugins.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bows-play-api/project/build.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bows-play-api/test/models/MemberSpec.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="131" />
+    <option name="width" value="1660" />
+    <option name="height" value="787" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583339906427" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dev/Apprenticeship/bows-api-draft" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/bows-play-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../dev/Apprenticeship/bows-api-draft" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../dev/Apprenticeship/bows-formula-one-rest-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../dev/HMRC/hmrc-email-renderer" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../dev/HMRC/manage-pensions-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../dev/HMRC/pension-scheme-accounting-for-tax" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../dev/HMRC/pension-scheme-accounting-for-tax-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../dev/HMRC/pensions-scheme" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../dev/HMRC/pensions-scheme-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../dev/HMRC/pensions-scheme-stubs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../dev/Mydev/bows_formula_one" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f7f4827-da65-42ea-9c0c-ea1f75cf1a80" name="Default Changelist" comment="" />
+      <created>1583338748856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583338748856</updated>
+      <workItem from="1583338750122" duration="313000" />
+      <workItem from="1583339084217" duration="326000" />
+      <workItem from="1583339494671" duration="427000" />
+      <workItem from="1583339941373" duration="627000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1693000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.257886" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32963374" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bows-play-api/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bows-play-api/test/models/MemberSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bows-play-api/project/build.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bows-play-api/bows-play-api.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bows-play-api/project/plugins.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bows-play-api/test/models/CardSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+          <folding>
+            <element signature="e#16#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.13.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>bows-play-api</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>inc_compile_2.13</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
